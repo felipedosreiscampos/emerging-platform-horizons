@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">Emerging Platform Horizons mark</title>
+  <rect x="2" y="2" width="60" height="60" rx="16" fill="#183b3a"/>
+  <circle cx="42" cy="22" r="7" fill="#d7a779"/>
+  <path d="M10 34h44M14 42h36M20 50h24" fill="none" stroke="#f7f7f5" stroke-linecap="round" stroke-width="3"/>
+  <path d="M18 34a24 24 0 0 1 24-19" fill="none" stroke="#d7a779" stroke-linecap="round" stroke-width="3"/>
+</svg>
